@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming, chess and of course programming
 - 🌱 I’m currently doing my "DirtMaster" Xamarin App with MVVM pattern and SQLiteDB. I'm trying to understand the deeper parts of async programming.
 After I will finish my app, I will attempt to do my own website from scratch with ASP.NET.
-- 💞️ I’m looking for a job as junior programmer in .Net, mostly in WPF and Xamarin.Forms extensions. If you are interested, look below.
+- 💞️ I’m looking for a job as junior programmer in .Net, mostly in WPF and Xamarin.Forms extensions(or in MAUI, when it will be released and stable). If you are interested, look below.
 - 📫 You can reach me through my email: 3tcmikulski@gmail.com.
 
 <!---
